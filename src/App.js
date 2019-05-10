@@ -86,7 +86,7 @@ function App() {
                           </h2>
                         </div>
                         <div class="dtc v-mid">
-                          <span class="button-reset bg-green pa2 white fr pv1">
+                          <span class="button-reset bg-blue pa2 white fr pv1">
                             {data.rates[currcency] * rateBase}
                           </span>
                         </div>
